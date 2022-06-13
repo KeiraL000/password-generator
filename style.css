@@ -135,3 +135,7 @@ button[disabled] {
     font-size: 0.8rem;
   }
 }
+
+.password-options {
+  text-align: center;
+}
